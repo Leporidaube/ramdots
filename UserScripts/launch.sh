@@ -1,5 +1,5 @@
 #!/bin/bash
 
-! killall -9 waybar
+! killall -9 quickshell
 
-waybar &
+quickshell &
